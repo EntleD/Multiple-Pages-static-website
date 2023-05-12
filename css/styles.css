@@ -1,3 +1,7 @@
+body {
+  background-color: #f5c16c;
+}
+
 h1,
 h2 {
   text-align: center;
@@ -6,4 +10,9 @@ h2 {
 a {
   display: flex;
   justify-content: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
